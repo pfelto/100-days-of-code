@@ -11,7 +11,7 @@
 **Link to work:** [Habit Tracker App](https://github.com/pfelto/HabitTracker)
 **Link to Twitter Post:** [Day 1 Twitter Post](https://twitter.com/felton_paul/status/1483156191337492482)
 
-### Day 1: 1/18/2022
+### Day 2: 1/18/2022
 
 #####
 
@@ -20,4 +20,4 @@
 **Thoughts:** I should have followed a nice development process by Sumar Buna but I did not and now have a functioning app that needs styling but am less motivated as it is functional. I need to work on CSS and separating concerns in React using custom hooks, additional React Components. I will strive to complete this today or tomorrow so i can move on to the pagination app.
 
 **Link to work:** [Habit Tracker App](https://github.com/pfelto/HabitTracker)
-**Link to Twitter Post:** [Day 1 Twitter Post](https://twitter.com/felton_paul/status/1483477415527657475)
+**Link to Twitter Post:** [Day 2 Twitter Post](https://twitter.com/felton_paul/status/1483477415527657475)
