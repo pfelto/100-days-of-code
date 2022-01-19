@@ -21,3 +21,14 @@
 
 **Link to work:** [Habit Tracker App](https://github.com/pfelto/HabitTracker)
 **Link to Twitter Post:** [Day 2 Twitter Post](https://twitter.com/felton_paul/status/1483477415527657475)
+
+### Day 3: 1/19/2022
+
+#####
+
+**Today's Progress**: Completed working on my Habit Tracker app.
+
+**Thoughts:** This was definitely not the best development process and when it came down to creating reusable custom hooks and performance tweaks I was unable to do a lot of them. This opened my eyes and I add a lessons learned to the readme of the github page. I will have to think about these more in future projects and will be starting my next project for pagination or Tic Tac Toe.
+
+**Link to work:** [Habit Tracker App](https://github.com/pfelto/HabitTracker)
+**Link to Twitter Post:** [Day 3 Twitter Post](https://twitter.com/felton_paul/status/1483873846897917963)
