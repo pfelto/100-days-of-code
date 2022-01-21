@@ -43,3 +43,14 @@
 
 **Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 4 Twitter Post](https://twitter.com/felton_paul/status/1484386508752646146)
+
+### Day 5: 1/21/2022
+
+#####
+
+**Today's Progress**: Changed to generate a calendar file utilizing .ics. Spent most of my day working on CSS layout (grid vs flex, border-box v content box) and React Controlled form.
+
+**Thoughts:** Got a lot better understanding on CSS layouts and using border-box vs content-box to fill whole screen without wacky calc(100vw - xpx) stuff. App is basically done, but I want to use React Composition to make reusable React Form Component.
+
+**Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 5 Twitter Post](https://twitter.com/felton_paul/status/1484667214988988418)
