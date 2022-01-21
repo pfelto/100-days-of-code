@@ -32,3 +32,14 @@
 
 **Link to work:** [Habit Tracker App](https://github.com/pfelto/HabitTracker)
 **Link to Twitter Post:** [Day 3 Twitter Post](https://twitter.com/felton_paul/status/1483873846897917963)
+
+### Day 4: 1/20/2022
+
+#####
+
+**Today's Progress**: Started a google calendar event React App. Using my own React Scaffolding
+
+**Thoughts:** Knew the things needed for scaffolding but first time actually setting it up without a video guide. Takes a lot of work just to get everything to work and little omissions cause the whole thing to break with little warnings. I will do it next project again to get the feel for everything and then will look for a way to easily use it. maybe a github repo i clone for projects? IDK but won't change too often. Also, need to read up more on Google Calendar API to see if my simple app will or will not be so simple.
+
+**Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 4 Twitter Post](https://twitter.com/felton_paul/status/1484386508752646146)
