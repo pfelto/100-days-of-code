@@ -54,3 +54,14 @@
 
 **Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 5 Twitter Post](https://twitter.com/felton_paul/status/1484667214988988418)
+
+### Day 6: 1/22/2022
+
+#####
+
+**Today's Progress**: Continued working on my Calendar event app.
+
+**Thoughts:** Working with Forms in React is a bit of a pain. Will try using a library after I am happy with my pure React design. Also doing deep copying vs shallow copying in JavaScript is kind of a pain. Using JSON for Deep copying but will read up on other ways.
+
+**Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 6 Twitter Post](https://twitter.com/felton_paul/status/1485104233049477122)
