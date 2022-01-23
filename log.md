@@ -65,3 +65,14 @@
 
 **Link to work:** [Google Calendar Events](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 6 Twitter Post](https://twitter.com/felton_paul/status/1485104233049477122)
+
+### Day 7: 1/23/2022
+
+#####
+
+**Today's Progress**: Continued working on my Calendar event app.
+
+**Thoughts:** Only got 1 hour today and worked on markup as I had little motivation and brain power today. Made some cool markup fixes. Tomorrow I am holding myself to finish this Calendar app by 1. creating reusable react components, 2. Using TypeScript with this, 3. Creating This using react form hook or formik.
+
+**Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 7 Twitter Post](https://twitter.com/felton_paul/status/1485397082726977538)
