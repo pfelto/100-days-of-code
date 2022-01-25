@@ -76,3 +76,22 @@
 
 **Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 7 Twitter Post](https://twitter.com/felton_paul/status/1485397082726977538)
+
+### Day 8: 1/24/2022
+
+#####
+
+**Today's Progress**: Continued working on my Calendar event app.
+
+**Thoughts:** Got a decent amount done today. Lot goes into handling forms in React so I hope React form Hook Library makes it a lot easier. Wanted to finish tomorrow but looking at my goals for tomorrow. This might run into Wednesday as well.
+
+**Goals for Tomorrow:**
+
+1. Build basic app with React Form Hook instead of React Forms
+2. Make react components for each input in main
+3. Add TypeScript to main
+4. Add some Tests with JEST and React Testing Library
+5. Set up and build a production build
+
+**Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 8 Twitter Post](https://twitter.com/felton_paul/status/1485767346992173058)
