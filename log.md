@@ -114,3 +114,21 @@
 
 **Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 9 Twitter Post](https://twitter.com/felton_paul/status/1486145444161982470)
+
+### Day 10: 1/26/2022
+
+#####
+
+**Today's Progress**: Finished Calendar app by building a simplified version using React Form Hook and then making a production webpack config and scripts. Start my SVG Avatar project.
+
+**Thoughts:** Production build webpack was not too bad. Just need another repetition or 2 building React Scaffolding and I should have a firm understanding. Start my SVG Avatar project by building a pseudo portfolio site with a working theme button. Tomorrow will be CSS positioning and then a whole lot of SVG work.
+
+**Goals for Tomorrow:**
+
+1. Follow layout of [Cassies site](https://www.cassie.codes/) to handle positioning in my pseudo portfolio site.
+2. Work on the styling on the site so I can copy and paste it into my actual portfolio site later
+   - COMPLEX CSS
+3. Spend a whole lot of time learning and applying SVG and animations
+
+**Link to work:** [SVG Avatar](https://github.com/pfelto/SVGAvatar)
+**Link to Twitter Post:** [Day 10 Twitter Post](https://twitter.com/felton_paul/status/1486383174322208773)
