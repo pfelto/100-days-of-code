@@ -95,3 +95,22 @@
 
 **Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
 **Link to Twitter Post:** [Day 8 Twitter Post](https://twitter.com/felton_paul/status/1485767346992173058)
+
+### Day 9: 1/25/2022
+
+#####
+
+**Today's Progress**: Continued working on my Calendar event app.
+
+**Thoughts:** Struggled a bit today working with React Form Hook as it uses uncontrolled inputs. Going to finish that tomorrow and other tasks I wanted to finish today so I can start working on my next app. I am planning on making a small React app that contains a CSS avatar of myself for my portfolio page.
+
+**Goals for Tomorrow:**
+
+1. Build basic app with React Form Hook instead of React Forms
+2. Add TypeScript to main
+3. Add some Tests with JEST and React Testing Library
+4. Set up and build a production build
+5. Start CSS Avatar React App
+
+**Link to work:** [iCalendar Events App](https://github.com/pfelto/ReactCalendarEvents)
+**Link to Twitter Post:** [Day 9 Twitter Post](https://twitter.com/felton_paul/status/1486145444161982470)
