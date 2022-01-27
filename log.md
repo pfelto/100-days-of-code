@@ -132,3 +132,21 @@
 
 **Link to work:** [SVG Avatar](https://github.com/pfelto/SVGAvatar)
 **Link to Twitter Post:** [Day 10 Twitter Post](https://twitter.com/felton_paul/status/1486383174322208773)
+
+### Day 11: 1/27/2022
+
+#####
+
+**Today's Progress**: Changed course from SVG Avatar in the footer to creating the layout template for my portfolio site.
+
+**Thoughts:** SVG is crazy hard and maybe too creative for me. I needed to download a special SVG editor and all kinds of stuff, so changed my project to be a template layout for my future portfolio site that will have a finished header and footer and general layout styling for the sections such that I just need to populate the main sections and will be done.
+
+**Goals for Tomorrow:**
+
+1. Finish my Header Component
+2. Use React Router to create other pages: projects, blog and contact? maybe resume too that navigate from header
+3. Create a CSS layout and React layout component that will be used by all pages on my site
+4. Create a final footer with social icons
+
+**Link to work:** [Layout Portfolio](https://github.com/pfelto/LayoutPortfolioSite)
+**Link to Twitter Post:** [Day 11 Twitter Post](https://twitter.com/felton_paul/status/1486815765001129985)
