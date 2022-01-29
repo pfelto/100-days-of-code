@@ -150,3 +150,19 @@
 
 **Link to work:** [Layout Portfolio](https://github.com/pfelto/LayoutPortfolioSite)
 **Link to Twitter Post:** [Day 11 Twitter Post](https://twitter.com/felton_paul/status/1486815765001129985)
+
+### Day 11: 1/27/2022
+
+#####
+
+**Today's Progress**: Continued working on React Layout component for portfolio site.
+
+**Thoughts:** A lot of work can go into CSS layout. Also a lot of ways to do the same thing in React. Compostion, configuration, props, context, etc.
+
+**Goals for Tomorrow:**
+
+1. Create a CSS layout and React layout component that will be used by all pages on my site
+2. Create a final footer with social icons
+
+**Link to work:** [Layout Portfolio](https://github.com/pfelto/LayoutPortfolioSite)
+**Link to Twitter Post:** [Day 12 Twitter Post](https://twitter.com/felton_paul/status/1487249466948206592)
