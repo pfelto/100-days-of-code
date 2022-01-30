@@ -151,7 +151,7 @@
 **Link to work:** [Layout Portfolio](https://github.com/pfelto/LayoutPortfolioSite)
 **Link to Twitter Post:** [Day 11 Twitter Post](https://twitter.com/felton_paul/status/1486815765001129985)
 
-### Day 11: 1/27/2022
+### Day 12: 1/28/2022
 
 #####
 
@@ -166,3 +166,14 @@
 
 **Link to work:** [Layout Portfolio](https://github.com/pfelto/LayoutPortfolioSite)
 **Link to Twitter Post:** [Day 12 Twitter Post](https://twitter.com/felton_paul/status/1487249466948206592)
+
+### Day 13: 1/29/2022
+
+#####
+
+**Today's Progress**: Finished React Layout component for portfolio site. Start working on Pagination App
+
+**Thoughts:** Portfolio layout was getting a little stale so moved on to a pagination app that will utilize a lot of things from the first few applications. Excited to build more reusable components and hooks and master composition
+
+**Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
+**Link to Twitter Post:** [Day 13 Twitter Post](https://twitter.com/felton_paul/status/1487617335028555777)
