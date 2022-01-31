@@ -177,3 +177,14 @@
 
 **Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
 **Link to Twitter Post:** [Day 13 Twitter Post](https://twitter.com/felton_paul/status/1487617335028555777)
+
+### Day 14: 1/30/2022
+
+#####
+
+**Today's Progress**: Contined working on Pagination App
+
+**Thoughts:** Trying to use some more libraries instead of React and JavaScript and manually writing everything. Also trying to utilize more reusable code like custom hooks and composition.
+
+**Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
+**Link to Twitter Post:** [Day 14 Twitter Post](https://twitter.com/felton_paul/status/1487970385190653952)
