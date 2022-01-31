@@ -188,3 +188,14 @@
 
 **Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
 **Link to Twitter Post:** [Day 14 Twitter Post](https://twitter.com/felton_paul/status/1487970385190653952)
+
+### Day 15: 1/31/2022
+
+#####
+
+**Today's Progress**: Contined working on Pagination App
+
+**Thoughts:** JSON-Server lets you do a lot of things that an actual API does quite easily, so didn't have to spend nearly as much time doing pagination, sorting or filtering as I thought. Will need to send some time on performance which is tricky and actually writing JEST & React Testing Library tests. Might productionize this app too and make some integration tests, or wait for another project to do that.
+
+**Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
+**Link to Twitter Post:** [Day 15 Twitter Post](https://twitter.com/felton_paul/status/1488300168462180354)
