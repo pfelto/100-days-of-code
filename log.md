@@ -199,3 +199,14 @@
 
 **Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
 **Link to Twitter Post:** [Day 15 Twitter Post](https://twitter.com/felton_paul/status/1488300168462180354)
+
+### Day 16: 2/01/2022
+
+#####
+
+**Today's Progress**: Contined working on Pagination App
+
+**Thoughts:** Need to implement a PUT fetch request and also change around my logic as the current set up is not really working as intended and implementing an update made it come to light.
+
+**Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
+**Link to Twitter Post:** [Day 16 Twitter Post](https://twitter.com/felton_paul/status/1488685158526078977)
