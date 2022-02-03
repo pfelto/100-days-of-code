@@ -221,3 +221,20 @@
 
 **Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
 **Link to Twitter Post:** [Day 17 Twitter Post](https://twitter.com/felton_paul/status/1488977853840564231)
+
+### Day 18: 2/03/2022
+
+#####
+
+**Today's Progress**: Finished working on Pagination App
+
+**Thoughts:** Was able to implement my pagination app with the current state by putting all the fetch logic for PUT and GET on update inside a changeOnclick method for that checkbox... Need to focus more on organization for my next project which will be Tic Tac Toe
+
+**Goals for Tomorrow:**
+
+1. Start developing Tictactoe using TDD
+2. finish freeCodeCamp tutorial
+3. continue practicing my typing speed using 10fastfingers
+
+**Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
+**Link to Twitter Post:** [Day 18 Twitter Post](https://twitter.com/felton_paul/status/1489346620823113729)
