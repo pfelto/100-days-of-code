@@ -238,3 +238,20 @@
 
 **Link to work:** [Pagination App](https://github.com/pfelto/ReactDisplayLargeData)
 **Link to Twitter Post:** [Day 18 Twitter Post](https://twitter.com/felton_paul/status/1489346620823113729)
+
+### Day 19: 2/04/2022
+
+#####
+
+**Today's Progress**: Start a React Typing Trainer app.
+
+**Thoughts:** Starting a React Typing Trainer app, want to focus on TDD and organization on this one as the core concepts are things that I have done before.
+
+**Goals for Tomorrow:**
+
+1. Continue development of React Typing Trainer using TDD
+2. finish freeCodeCamp applied accessiblity courses
+3. continue practicing my typing speed using 10fastfingers
+
+**Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
+**Link to Twitter Post:** [Day 19 Twitter Post](https://twitter.com/felton_paul/status/1489679080693940226)
