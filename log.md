@@ -255,3 +255,20 @@
 
 **Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
 **Link to Twitter Post:** [Day 19 Twitter Post](https://twitter.com/felton_paul/status/1489679080693940226)
+
+### Day 20: 2/05/2022
+
+#####
+
+**Today's Progress**: worked on React Typing Trainer app.
+
+**Thoughts:** Starting a React Typing Trainer app, want to focus on TDD and organization on this one as the core concepts are things that I have done before.
+
+**Goals for Tomorrow:**
+
+1. Continue development of React Typing Trainer using TDD
+2. finish freeCodeCamp applied accessiblity courses
+3. continue practicing my typing speed using 10fastfingers
+
+**Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
+**Link to Twitter Post:** [Day 20 Twitter Post](https://twitter.com/felton_paul/status/1490169468236013571)
