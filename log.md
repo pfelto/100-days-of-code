@@ -291,3 +291,22 @@
 
 **Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
 **Link to Twitter Post:** [Day 21 Twitter Post](https://twitter.com/felton_paul/status/1490511351130857473)
+
+### Day 22: 2/07/2022
+
+#####
+
+**Today's Progress**: worked on React Typing Trainer app and did 2 sections in freeCodeCamp Responsive Web Design.
+
+**Thoughts:** Almost completed typing trainer but I want to get separation of react components done first and add the printing of more than one word.
+
+**Goals for Tomorrow:**
+
+1. Finish extraction of game interface logic and components and see if i can make another custom hook
+2. create git repos and work on FCA responsive web design projects, tomorrow i will update on time line
+3. I want to create a bouncing basketball too
+4. continue practicing my typing speed using https://play.typeracer.com/
+5. Take notes on React and start to study so I can retake PS reat test and move on to JS and TS
+
+**Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
+**Link to Twitter Post:** [Day 22 Twitter Post](https://twitter.com/felton_paul/status/1490831811848863745)
