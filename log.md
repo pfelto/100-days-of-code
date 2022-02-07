@@ -272,3 +272,22 @@
 
 **Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
 **Link to Twitter Post:** [Day 20 Twitter Post](https://twitter.com/felton_paul/status/1490169468236013571)
+
+### Day 21: 2/06/2022
+
+#####
+
+**Today's Progress**: worked on React Typing Trainer app and did 2 and 1/2 sections in freeCodeCamp Responsive Web Design.
+
+**Thoughts:** Starting a React Typing Trainer app, want to focus on TDD and organization on this one as the core concepts are things that I have done before.
+
+**Goals for Tomorrow:**
+
+1. extract the code out of the app.js file into react components and handle game state
+2. finish freeCodeCamp flexbox and grid
+3. continue practicing my typing speed using 10fastfingers
+4. Watch some videos
+5. Read 1 Kent Dobbs articles
+
+**Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
+**Link to Twitter Post:** [Day 21 Twitter Post](https://twitter.com/felton_paul/status/1490511351130857473)
