@@ -310,3 +310,23 @@
 
 **Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
 **Link to Twitter Post:** [Day 22 Twitter Post](https://twitter.com/felton_paul/status/1490831811848863745)
+
+### Day 23: 2/08/2022
+
+#####
+
+**Today's Progress**: Completed React Typing Trainer and 2 Responsive Web Design projects. Started a bouncing basketball CSS animation too just to get the notes to stick
+
+**Thoughts:** Taking a little break from React to work on freeCodeCamp cert and the subject taught in the course.
+
+**Goals for Tomorrow:**
+
+1. Complete the Responsive Web Design projects and get my cert
+2. Complete my bouncing basketball CSS animation
+3. Take hand written notes on the course subject to make flash cards
+4. continue practicing my typing speed using https://play.typeracer.com/
+5. Take notes on React and start to study so I can retake PS react test
+
+**Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
+[CSS bouncing basketball](https://github.com/pfelto/bouncingbasketball)
+**Link to Twitter Post:** [Day 22 Twitter Post](https://twitter.com/felton_paul/status/1491144800145674241)
