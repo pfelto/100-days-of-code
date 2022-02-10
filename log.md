@@ -329,4 +329,30 @@
 
 **Link to work:** [React Typing Trainer App](https://github.com/pfelto/ReactTypingTrainer)
 [CSS bouncing basketball](https://github.com/pfelto/bouncingbasketball)
-**Link to Twitter Post:** [Day 22 Twitter Post](https://twitter.com/felton_paul/status/1491144800145674241)
+**Link to Twitter Post:** [Day 23 Twitter Post](https://twitter.com/felton_paul/status/1491144800145674241)
+
+### Day 24: 2/09/2022
+
+#####
+
+**Today's Progress**: Completed 3 Responsive Web Design projects.
+
+**Thoughts:** Completed 3 out of the 5 freeCodeCamp projects for the responsive web design cert. Going to finish the other 2 projects and writing up the notes tomorrow.
+
+**Goals for this Week:**
+
+1. Complete the Responsive Web Design projects and get my cert - 2/10
+2. Take hand written notes on the course subject to make flash cards - 2/10
+3. Complete my bouncing basketball CSS animation - 2/11
+4. continue practicing my typing speed using https://play.typeracer.com/ AD (ALL DAY)
+5. Take notes on React and start to study so I can retake PS react test - 2/11
+6. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/12 start... will take a while to complete 15 increasingly difficult react programs
+7. Watch intro to data structures and algorithms course - 2/12
+8. Start JS algorithms and Data structures cource at FCA - 2/13
+
+**Link to work:**
+
+- [Man City Landing Page](https://codepen.io/pfelton5/pen/podeOvW)
+- [EPL Survey form](https://codepen.io/pfelton5/pen/LYOWZNm)
+- [Orson Welles Tribute](https://codepen.io/pfelton5/pen/abVpgqK)
+  **Link to Twitter Post:** [Day 24 Twitter Post](https://twitter.com/felton_paul/status/1491599911145594887)
