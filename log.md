@@ -355,4 +355,28 @@
 - [Man City Landing Page](https://codepen.io/pfelton5/pen/podeOvW)
 - [EPL Survey form](https://codepen.io/pfelton5/pen/LYOWZNm)
 - [Orson Welles Tribute](https://codepen.io/pfelton5/pen/abVpgqK)
+
   **Link to Twitter Post:** [Day 24 Twitter Post](https://twitter.com/felton_paul/status/1491599911145594887)
+
+### Day 25: 2/10/2022
+
+#####
+
+**Today's Progress**: Completed 1 Responsive Web Design projects.
+
+**Thoughts:** Completed 4 out of the 5 freeCodeCamp projects for the responsive web design cert. Going to take my time on the porfolio project tomorrow so I can use it on my resume. Also will write up the notes tomorrow for the Responsive Web Design course.
+
+**Goals for this Week of 2/7 - 2/13:**
+
+1. Complete the Responsive Web Design portfolio project, put it up on github pages as my portfolio site and get my cert - 2/11
+2. Complete my bouncing basketball/soccer ball CSS animation (put this in the contact section of my portfolio site?? think so) - 2/11
+3. Take hand written notes on the course subject to make flash cards - 2/11
+4. continue practicing my typing speed using https://play.typeracer.com/ AD (ALL DAY)
+5. Take notes on React and start to study so I can retake PS react test next week Wednesday (2/16) - 2/12
+6. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/12 start... will take a while to complete 15 increasingly difficult react programs
+7. Watch intro to data structures and algorithms course - 2/13
+8. Start JS algorithms and Data structures cource at FCA - 2/14
+
+**Link to work:**[Technical Documentation](https://codepen.io/pfelton5/pen/oNoWgGK)
+
+**Link to Twitter Post:** [Day 25 Twitter Post](https://twitter.com/felton_paul/status/1491933527897784346)
