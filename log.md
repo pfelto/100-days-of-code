@@ -380,3 +380,25 @@
 **Link to work:**[Technical Documentation](https://codepen.io/pfelton5/pen/oNoWgGK)
 
 **Link to Twitter Post:** [Day 25 Twitter Post](https://twitter.com/felton_paul/status/1491933527897784346)
+
+### Day 26: 2/11/2022
+
+#####
+
+**Today's Progress**: Completed last Responsive Web Design projects and got my cert. Started the JS Algorithms and Data structures course today.
+
+**Thoughts:** Completed my portfolio site and it is pretty decent. Need to make a few changes tomorrow to make it useable and then a few more changes before i apply for joins to add pizaz. still need to write up the notes for the Responsive Web Design course.
+
+**Goals for this Week of 2/7 - 2/13:**
+
+1. slight tweaks to Responsive Web Design portfolio project - 2/12
+2. Take hand written notes on the course subject to make flash cards - 2/12
+3. continue practicing my typing speed using https://play.typeracer.com/ AD (ALL DAY)
+4. Take notes on React and start to study so I can retake PS react test next week Wednesday (2/16) - 2/14
+5. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/12 start... will take a while to complete 15 increasingly difficult react programs
+6. Watch intro to data structures and algorithms course - 2/13
+7. Start JS algorithms and Data structures course at FCA - 2/11
+
+**Link to work:**[Portfolio Site](https://pfelto.github.io/)
+
+**Link to Twitter Post:** [Day 26 Twitter Post](https://twitter.com/felton_paul/status/1492354239464677381)
