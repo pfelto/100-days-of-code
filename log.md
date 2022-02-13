@@ -402,3 +402,46 @@
 **Link to work:**[Portfolio Site](https://pfelto.github.io/)
 
 **Link to Twitter Post:** [Day 26 Twitter Post](https://twitter.com/felton_paul/status/1492354239464677381)
+
+### Day 27: 2/12/2022
+
+#####
+
+**Today's Progress**: Did nothing today
+
+**Thoughts:** Didn't do anything so alittle bummed but also had a fun day, need to make sure i code and study a bit tomorrow so i donn't fall out of the loop of coding daily
+
+**Goals for this Week of 2/7 - 2/13:**
+
+1. slight tweaks to Responsive Web Design portfolio project - 2/13
+2. Take hand written notes on the course subject to make flash cards - 2/14
+3. continue practicing my typing speed using https://play.typeracer.com/ AD (ALL DAY)
+4. Take notes on React and start to study so I can retake PS react test next week Wednesday (2/16) - 2/15
+5. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/14 start... will take a while to complete 15 increasingly difficult react programs
+6. Watch intro to data structures and algorithms course - 2/14
+
+**Link to work:**[Portfolio Site](https://pfelto.github.io/)
+
+**Link to Twitter Post:** [Day 27 Twitter Post](https://twitter.com/felton_paul/status/1492939466218033156)
+
+### Day 86: 2/13/2022
+
+#####
+
+**Today's Progress**: Did JavaScript Basics course and some tweaks to my portfolio sight. Started my todo list project as well.
+
+**Thoughts:** Super Bowl sunday so had a lot to do and was a bit tired from drinking late last night but still got in an hour of coding and hour or so studying. Decent day, back to the 6+ hrs tomorrow
+
+**Goals for this Week of 2/14 - 2/20:**
+
+1. continue JS algorithms and Data structures course at FCA - 2/14 onwards
+2. Take hand written notes on the course subject to make flash cards - 2/14
+3. Take notes on React and start to study so I can retake PS react test next week Wednesday (2/16) - 2/15
+4. continue working on Todo React project 2/14
+5. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/16 start
+6. Watch intro to data structures and algorithms course - 2/16
+   6
+
+**Link to work:**[Portfolio Site](https://pfelto.github.io/)
+
+**Link to Twitter Post:** [Day 28 Twitter Post](https://twitter.com/felton_paul/status/1492939466218033156)
