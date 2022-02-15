@@ -424,7 +424,7 @@
 
 **Link to Twitter Post:** [Day 27 Twitter Post](https://twitter.com/felton_paul/status/1492939466218033156)
 
-### Day 86: 2/13/2022
+### Day 28: 2/13/2022
 
 #####
 
@@ -445,3 +445,22 @@
 **Link to work:**[Portfolio Site](https://pfelto.github.io/)
 
 **Link to Twitter Post:** [Day 28 Twitter Post](https://twitter.com/felton_paul/status/1492939466218033156)
+
+### Day 29: 2/14/2022
+
+#####
+
+**Today's Progress**: Started Epic React Exercises first project: TicTacToe. Also did some fCC coursework on JavaScript.
+
+**Thoughts:** Got a decent amount of work done and feel like I am definitely thinking more like a developer. Trying to have components do a single thing and reuse as much code as possible. Need to stop gaming so much so I can spend time making notes and reading them to retain knowledge better.
+
+**Goals for this Week of 2/14 - 2/20:**
+
+1. Take hand written notes on the course subject to make flash cards - 2/15
+2. Take notes on React and start to study so I can retake PS react test next week Friday (2/18) - 2/16
+3. Start React Programs at [MERE](https://epic-react-exercises.vercel.app/) - 2/14 started ticTactoe
+4. Watch intro to data structures and algorithms course - 2/?
+
+**Link to work:**[MERE 1: TicTacToe](https://github.com/pfelto/ReactTicTacToe)
+
+**Link to Twitter Post:** [Day 29 Twitter Post](https://twitter.com/felton_paul/status/1493388679800369156)
