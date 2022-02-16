@@ -464,3 +464,28 @@
 **Link to work:**[MERE 1: TicTacToe](https://github.com/pfelto/ReactTicTacToe)
 
 **Link to Twitter Post:** [Day 29 Twitter Post](https://twitter.com/felton_paul/status/1493388679800369156)
+
+### Day 30: 2/15/2022
+
+#####
+
+**Today's Progress**: Completed 99 units in the JS algorithms and data structures course at fCC. Took a break from react programming to focus on that.
+
+**Thoughts:** Did a lot of JS work at fCC. Had never really bothered to learn regex so that was new and pretty challenging. Need to code again tomorrow though so I don't start not coding.
+
+**Goals for this Week of 2/14 - 2/20:**
+
+1. Continue coding [MERE Fundamentals & TicTacToe](https://epic-react-exercises.vercel.app/) - 2/16
+2. Complete Basic Algorithms, OOP and functional programming sections in JS algorithms and Data structures course - 2/16
+3. Finish intermediate algorithms - 2/17
+4. Take notes on Responsive Web Design - 2/17
+5. finish coding TicTacToe - 2/17
+6. Watch intro to data structures and algorithms course - 2/18
+7. Start JS algorithms and Data structures course projects - 2/18
+8. take notes on JS algorithms and Data structures course - 2/19
+9. Finish JS algorithms and Data structures course projects - 2/20
+10. Start working on MERE prj 2 - 2/21
+
+**Link to work:**[MERE 1: TicTacToe](https://github.com/pfelto/ReactTicTacToe)
+
+**Link to Twitter Post:** [Day 30 Twitter Post](https://twitter.com/felton_paul/status/1493748606951694337)
