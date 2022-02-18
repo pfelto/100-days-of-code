@@ -535,3 +535,25 @@
 **Link to work:**[MERE 1: TicTacToe](https://github.com/pfelto/ReactTicTacToe)
 
 **Link to Twitter Post:** [Day 32 Twitter Post](https://twitter.com/felton_paul/status/1494475650853445636)
+
+### Day 33: 2/18/2022
+
+#####
+
+**Today's Progress**: fCC JS course algorithm and Leetcode algorithm exercises worked on
+
+**Thoughts:** Doing practice problems on algorithms is very helpful. I think it has given me a much better understanding on javaScript then just making random React Programs, but not as fun
+
+**Goals for this Week of 2/14 - 2/20:**
+
+1. Complete algorithms in JS algorithms and Data structures course - 2/19
+2. Complete Leetcode Day 1 & 2 - 2/19
+3. Take notes on Responsive Web Design - 2/19
+4. Start JS algorithms and Data Structures projects - 2/20
+5. Leetcode Day 2 & 3 - 2/20
+6. Watch intro to data structures and algorithms course - 2/X
+7. take notes on JS algorithms and Data structures course - 2/21
+8. Finish JS algorithms and Data structures course projects - 2/22
+9. Start working on MERE prj 1 again - 2/21
+
+**Link to Twitter Post:** [Day 33 Twitter Post](https://twitter.com/felton_paul/status/1494803986016313350)
