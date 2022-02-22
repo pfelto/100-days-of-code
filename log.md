@@ -557,3 +557,15 @@
 9. Start working on MERE prj 1 again - 2/21
 
 **Link to Twitter Post:** [Day 33 Twitter Post](https://twitter.com/felton_paul/status/1494803986016313350)
+
+### Day 34: 2/21/2022
+
+#####
+
+**Today's Progress**: completed fCC JS course algorithm and first two projects
+
+**Thoughts:** Doing practice problems on algorithms is very helpful. I think it has given me a much better understanding on javaScript then just making random React Programs, but not as fun. This week i want to complete JS projects in fCC and start the frameworks course. I will continue MERE react programming and Leetcode as well. Also NEED to complete notes for React, Responsive Web Design and this JS course!
+
+**Link to work:** [Palindrome](https://github.com/pfelto/palindromeJSfCC)
+[Roman Numerals](https://github.com/pfelto/RomanNumeralJSfCC)
+**Link to Twitter Post:** [Day 33 Twitter Post](https://twitter.com/felton_paul/status/1495915691731570691)
