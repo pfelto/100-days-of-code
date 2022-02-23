@@ -568,4 +568,17 @@
 
 **Link to work:** [Palindrome](https://github.com/pfelto/palindromeJSfCC)
 [Roman Numerals](https://github.com/pfelto/RomanNumeralJSfCC)
-**Link to Twitter Post:** [Day 33 Twitter Post](https://twitter.com/felton_paul/status/1495915691731570691)
+**Link to Twitter Post:** [Day 34 Twitter Post](https://twitter.com/felton_paul/status/1495915691731570691)
+
+### Day 35: 2/23/2022
+
+#####
+
+**Today's Progress**: completed fCC JS projects and started notes
+
+**Thoughts:** Completed fCC Js Projects and started taking notes. Next section is on libraries and includes bootstrap, jQuery, Sass, React and redux so will be a create refresher. Going to start working on MERE projects again too
+
+**Link to work:** [Caesar's Cipher](https://github.com/pfelto/caesarscipherJSfCC)
+[Telephone Validator](https://github.com/pfelto/telephonevalidatorJSfCC)
+[Cash Register](https://github.com/pfelto/cashregisterJSfCC)
+**Link to Twitter Post:** [Day 35 Twitter Post](https://twitter.com/felton_paul/status/1496605844347265036)
