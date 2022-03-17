@@ -582,3 +582,15 @@
 [Telephone Validator](https://github.com/pfelto/telephonevalidatorJSfCC)
 [Cash Register](https://github.com/pfelto/cashregisterJSfCC)
 **Link to Twitter Post:** [Day 35 Twitter Post](https://twitter.com/felton_paul/status/1496605844347265036)
+
+### Day 1: 3/17/2022
+
+#####
+
+**Today's Progress**: updated portfolio site, completed wordpress site, and completed Managing packages with NPM section of fcc course
+
+**Thoughts:** I am almost ready to apply to the freelance web developer position at Ramblin Jackson. Need to look into the other tools and continue working on my wordpress site daily.
+
+**Link to work:** [wordPress site](https://paulfeltoncom.wordpress.com/)
+[portfolio site](https://pfelto.github.io/)
+**Link to Twitter Post:** [Day 1 Twitter Post try2](https://twitter.com/felton_paul/status/1496605844347265036)
